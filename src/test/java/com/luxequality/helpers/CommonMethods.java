@@ -52,7 +52,7 @@ public class CommonMethods extends PageInitializer {
 
     /**
      * Wait for the element to become visible. Uses isDisplayed() method of the
-     * element. Throws an error if element
+     * element. Throws an error if element is not displayed after timeout.wait
      * 
      * @param element - element to wait
      */
