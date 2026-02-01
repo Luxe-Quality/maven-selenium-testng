@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-31T06:51:08 UTC" name="Regression" finished-at="2026-01-31T06:51:11 UTC" duration-ms="3341">
+  <suite started-at="2026-02-01T06:59:45 UTC" name="Regression" finished-at="2026-02-01T06:59:56 UTC" duration-ms="10830">
     <groups>
     </groups>
-    <test started-at="2026-01-31T06:51:08 UTC" name="Valid login with the standard user" finished-at="2026-01-31T06:51:11 UTC" duration-ms="3341">
+    <test started-at="2026-02-01T06:59:45 UTC" name="Valid login with the standard user" finished-at="2026-02-01T06:59:56 UTC" duration-ms="10830">
       <class name="com.luxequality.tests.Login">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.luxequality.tests.Login@5276e6b0]" started-at="2026-01-31T06:51:08 UTC" name="setup" finished-at="2026-01-31T06:51:10 UTC" duration-ms="2546" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.luxequality.tests.Login@5276e6b0]" started-at="2026-02-01T06:59:45 UTC" name="setup" finished-at="2026-02-01T06:59:54 UTC" duration-ms="9437" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginToWebsite()[pri:0, instance:com.luxequality.tests.Login@5276e6b0]" started-at="2026-01-31T06:51:10 UTC" name="LoginToWebsite" finished-at="2026-01-31T06:51:11 UTC" duration-ms="689" status="PASS">
+        <test-method signature="LoginToWebsite()[pri:0, instance:com.luxequality.tests.Login@5276e6b0]" started-at="2026-02-01T06:59:54 UTC" name="LoginToWebsite" finished-at="2026-02-01T06:59:56 UTC" duration-ms="1297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginToWebsite -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luxequality.tests.Login@5276e6b0]" started-at="2026-01-31T06:51:11 UTC" name="tearDown" finished-at="2026-01-31T06:51:11 UTC" duration-ms="78" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luxequality.tests.Login@5276e6b0]" started-at="2026-02-01T06:59:56 UTC" name="tearDown" finished-at="2026-02-01T06:59:56 UTC" duration-ms="73" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
